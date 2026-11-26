@@ -1,0 +1,1079 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "→ %@" : {
+
+    },
+    "Active mappings: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Aktive Zuordnungen: %@" } }
+      }
+    },
+    "Address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adresse"
+          }
+        }
+      }
+    },
+    "Address Rule" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adressregel"
+          }
+        }
+      }
+    },
+    "Analysis complete" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyse abgeschlossen"
+          }
+        }
+      }
+    },
+    "Analysis complete · Local AI unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyse abgeschlossen · Lokale KI nicht verfügbar"
+          }
+        }
+      }
+    },
+    "Anonymized" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anonymisiert" } }
+      }
+    },
+    "Analyze Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text analysieren"
+          }
+        }
+      }
+    },
+    "Analyze Text to detect supported sensitive items." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text analysieren, um unterstützte sensible Inhalte zu erkennen."
+          }
+        }
+      }
+    },
+    "Analyzing text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text wird analysiert"
+          }
+        }
+      }
+    },
+    "Analyzing…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wird analysiert…"
+          }
+        }
+      }
+    },
+    "Anonymization Categories" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonymisierungskategorien"
+          }
+        }
+      }
+    },
+    "Choose which detected categories should be replaced." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Festlegen, welche erkannten Kategorien ersetzt werden sollen." } }
+      }
+    },
+    "Anonymization Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonymisierungseinstellungen"
+          }
+        }
+      }
+    },
+    "Anonymize" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonymisieren"
+          }
+        }
+      }
+    },
+    "Anonymize content first to create a restore session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuerst Inhalte anonymisieren, um eine Wiederherstellungssitzung zu erstellen."
+          }
+        }
+      }
+    },
+    "Anonymize sensitive content locally on your Mac." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sensible Inhalte lokal auf dem Mac anonymisieren."
+          }
+        }
+      }
+    },
+    "Anonymized Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonymisierter Text"
+          }
+        }
+      }
+    },
+    "Apple Intelligence is not enabled on this Mac." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence ist auf diesem Mac nicht aktiviert."
+          }
+        }
+      }
+    },
+    "Apple Intelligence not enabled" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence nicht aktiviert"
+          }
+        }
+      }
+    },
+    "Apple's on-device language model is ready." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apples lokales Sprachmodell ist einsatzbereit."
+          }
+        }
+      }
+    },
+    "Available" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbar"
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen"
+          }
+        }
+      }
+    },
+    "Clear Input" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eingabe löschen"
+          }
+        }
+      }
+    },
+    "Clear Restore Data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellungsdaten löschen"
+          }
+        }
+      }
+    },
+    "Copied to clipboard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Zwischenablage kopiert"
+          }
+        }
+      }
+    },
+    "Copy Restored Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederhergestellten Text kopieren"
+          }
+        }
+      }
+    },
+    "Copy to Clipboard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Zwischenablage kopieren"
+          }
+        }
+      }
+    },
+    "Could not restore: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konnte nicht wiederhergestellt werden: %@"
+          }
+        }
+      }
+    },
+    "Custom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefiniert"
+          }
+        }
+      }
+    },
+    "Detected Items" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erkannte Inhalte"
+          }
+        }
+      }
+    },
+    "Detected Items (%@)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Erkannte Inhalte (%@)" } }
+      }
+    },
+    "Device not eligible" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerät nicht unterstützt"
+          }
+        }
+      }
+    },
+    "Domain" : {
+      "extractionState" : "manual"
+    },
+    "Email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-Mail"
+          }
+        }
+      }
+    },
+    "Enable Apple Intelligence in System Settings → Apple Intelligence & Siri." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence unter Systemeinstellungen → Apple Intelligence & Siri aktivieren."
+          }
+        }
+      }
+    },
+    "Fallback Rule" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallback-Regel"
+          }
+        }
+      }
+    },
+    "IBAN" : {
+      "extractionState" : "manual"
+    },
+    "IP Address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP-Adresse"
+          }
+        }
+      }
+    },
+    "Known placeholders not present: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bekannte Platzhalter nicht vorhanden: %@" } }
+      }
+    },
+    "Local AI" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale KI"
+          }
+        }
+      }
+    },
+    "Local AI Detection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale KI-Erkennung"
+          }
+        }
+      }
+    },
+    "Local AI Detection requires macOS 26 or later." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die lokale KI-Erkennung benötigt macOS 26 oder neuer."
+          }
+        }
+      }
+    },
+    "Local AI Detection uses Apple's on-device Foundation Model when available. No network fallback is used." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die lokale KI-Erkennung verwendet – sofern verfügbar – Apples On-Device-Modell. Es wird kein Netzwerk-Fallback verwendet."
+          }
+        }
+      }
+    },
+    "Local AI unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale KI nicht verfügbar"
+          }
+        }
+      }
+    },
+    "Location" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ort"
+          }
+        }
+      }
+    },
+    "MAC Address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MAC-Adresse"
+          }
+        }
+      }
+    },
+    "macOS manages the model download and preparation; no app installation is required." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS verwaltet Download und Vorbereitung des Modells; eine Installation durch die App ist nicht erforderlich."
+          }
+        }
+      }
+    },
+    "Manual" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuell"
+          }
+        }
+      }
+    },
+    "Model not ready" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modell nicht bereit"
+          }
+        }
+      }
+    },
+    "Natural Language" : {
+      "extractionState" : "manual"
+    },
+    "AI Text Anon" : {
+
+    },
+    "Developed and published by Laura Renning" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entwickelt und herausgegeben von Laura Renning"
+          }
+        }
+      }
+    },
+    "No supported sensitive items detected." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine unterstützten sensiblen Inhalte erkannt."
+          }
+        }
+      }
+    },
+    "Not anonymized" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht anonymisiert"
+          }
+        }
+      }
+    },
+    "Open System Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systemeinstellungen öffnen"
+          }
+        }
+      }
+    },
+    "Optional on-device support for difficult natural-language cases." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Optionale On-Device-Unterstützung für schwierige Fälle der natürlichen Sprache." } }
+      }
+    },
+    "Organization" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Organisation"
+          }
+        }
+      }
+    },
+    "Original Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Originaltext"
+          }
+        }
+      }
+    },
+    "Password / Secret" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort / Secret"
+          }
+        }
+      }
+    },
+    "Paste AI-edited anonymized content" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von einer KI bearbeiteten anonymisierten Text einfügen"
+          }
+        }
+      }
+    },
+    "Paste AI-edited anonymized content and restore the active mappings." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von einer KI bearbeiteten anonymisierten Text einfügen und aktive Zuordnungen wiederherstellen."
+          }
+        }
+      }
+    },
+    "Person Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personenname"
+          }
+        }
+      }
+    },
+    "Phone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefonnummer"
+          }
+        }
+      }
+    },
+    "Ready to analyze" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bereit zur Analyse"
+          }
+        }
+      }
+    },
+    "Remove manual detection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuelle Markierung entfernen"
+          }
+        }
+      }
+    },
+    "Requires macOS 26 or later" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "macOS 26 oder neuer erforderlich" } }
+      }
+    },
+    "Restore Original Data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Originaldaten wiederherstellen"
+          }
+        }
+      }
+    },
+    "Restored Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederhergestellter Text"
+          }
+        }
+      }
+    },
+    "Restored: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederhergestellt: %@"
+          }
+        }
+      }
+    },
+    "Review and select individual detections." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einzelne Treffer prüfen und auswählen."
+          }
+        }
+      }
+    },
+    "Select All" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle auswählen"
+          }
+        }
+      }
+    },
+    "Select All Items" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Treffer auswählen"
+          }
+        }
+      }
+    },
+    "Select None" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle abwählen"
+          }
+        }
+      }
+    },
+    "Select None Items" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Treffer abwählen"
+          }
+        }
+      }
+    },
+    "Select text above to add a manual classification." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oben Text auswählen, um eine manuelle Klassifizierung hinzuzufügen."
+          }
+        }
+      }
+    },
+    "Selected text is ready to classify." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählter Text kann klassifiziert werden."
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        }
+      }
+    },
+    "Structured" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strukturiert"
+          }
+        }
+      }
+    },
+    "Text changed · Analyze again" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text geändert · Erneut analysieren"
+          }
+        }
+      }
+    },
+    "The current mapping stays in memory only. Clear removes the current source text but keeps this restore session; use Clear Restore Data to discard it." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die aktuelle Zuordnung bleibt nur im Arbeitsspeicher. „Löschen“ entfernt den aktuellen Quelltext, behält diese Wiederherstellungssitzung aber bei; mit „Wiederherstellungsdaten löschen“ wird sie verworfen."
+          }
+        }
+      }
+    },
+    "The local Apple Intelligence model is currently unavailable." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das lokale Apple-Intelligence-Modell ist derzeit nicht verfügbar."
+          }
+        }
+      }
+    },
+    "The local Apple Intelligence model is not ready yet. macOS manages its download and preparation." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das lokale Apple-Intelligence-Modell ist noch nicht bereit. macOS verwaltet Download und Vorbereitung."
+          }
+        }
+      }
+    },
+    "This Mac does not support Apple Intelligence." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieser Mac unterstützt Apple Intelligence nicht."
+          }
+        }
+      }
+    },
+    "Token / API Key" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Token / API-Key"
+          }
+        }
+      }
+    },
+    "Unknown placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter Platzhalter"
+          }
+        }
+      }
+    },
+    "URL" : {
+      "extractionState" : "manual"
+    },
+    "Use Local AI Detection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale KI-Erkennung verwenden"
+          }
+        }
+      }
+    },
+    "UUID" : {
+      "extractionState" : "manual"
+    },
+    "Anonymized / External Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anonymisierter / externer Text" } }
+      }
+    },
+    "Anonymized text for external editing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anonymisierter Text zur externen Bearbeitung" } }
+      }
+    },
+    "Anonymizing Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Text anonymisieren" } }
+      }
+    },
+    "Close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Schließen" } }
+      }
+    },
+    "Copy Internal Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Internen Text kopieren" } }
+      }
+    },
+    "External / AI Editing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Externe / KI-Bearbeitung" } }
+      }
+    },
+    "Copy the anonymized text from the right side and edit it externally or with an AI tool. Keep placeholders unchanged." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Kopiere den anonymisierten Text von der rechten Seite und bearbeite ihn extern oder mit einem KI-Tool. Lasse Platzhalter unverändert." } }
+      }
+    },
+    "Help" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Hilfe" } }
+      }
+    },
+    "Internal Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Interner Text" } }
+      }
+    },
+    "Manual Marking" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Manuelle Markierung" } }
+      }
+    },
+    "Original or restored text containing real data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Original oder wiederhergestellter Text mit echten Daten" } }
+      }
+    },
+    "Paste sensitive text into Internal Text. Analyze the text and review the detected items. Add manual detections if necessary. Anonymize the text to create a safe version on the right." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Füge den sensiblen Text in „Interner Text“ ein. Analysiere den Text und prüfe die erkannten Inhalte. Nicht erkannte Inhalte können manuell markiert werden. Mit „Anonymisieren“ wird rechts eine anonymisierte Version erstellt." } }
+      }
+    },
+    "Paste the edited anonymized version back into the right editor. Restore replaces placeholders with the original values and writes the result to the left editor." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Füge die überarbeitete anonymisierte Version wieder rechts ein. Mit „Wiederherstellen“ werden die Platzhalter durch die ursprünglichen Werte ersetzt und das Ergebnis links eingetragen." } }
+      }
+    },
+    "Restore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wiederherstellen" } }
+      }
+    },
+    "The current mapping stays in memory only. Clear Restore Data discards the current session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Die aktuelle Zuordnung bleibt nur im Arbeitsspeicher. Mit „Wiederherstellungsdaten löschen“ wird die aktuelle Sitzung verworfen." } }
+      }
+    },
+    "Restore mappings stay in memory only. Clear Restore Data discards the current session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wiederherstellungsdaten bleiben nur im Arbeitsspeicher. Mit „Wiederherstellungsdaten löschen“ wird die aktuelle Sitzung verworfen." } }
+      }
+    },
+    "Restoring Original Data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Originaldaten wiederherstellen" } }
+      }
+    },
+    "If something was not detected automatically, select it in Internal Text and mark the selection as sensitive. Choose the appropriate category. Manual detections use the same anonymization and Restore workflow." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn etwas nicht automatisch erkannt wurde, wähle es im „Internen Text“ aus und markiere die Auswahl als sensibel. Wähle die passende Kategorie. Manuelle Markierungen verwenden denselben Anonymisierungs- und Wiederherstellungsablauf." } }
+      }
+    },
+    "Privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Datenschutz" } }
+      }
+    },
+    "Restore data is available only during the current app session. Starting a new anonymization session may replace the previous mapping. Closing the app removes the mapping." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wiederherstellungsdaten sind nur während der aktuellen App-Sitzung verfügbar. Eine neue Anonymisierungssitzung kann die vorherige Zuordnung ersetzen. Beim Schließen der App wird die Zuordnung entfernt." } }
+      }
+    },
+    "Restore Mapping Lifetime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Lebensdauer der Wiederherstellungsdaten" } }
+      }
+    },
+    "Anonymization and restoration happen locally on this Mac. Restore mappings stay in the memory of the running app and are not stored permanently. Optional Local AI Detection uses Apple's on-device model when available and has no network fallback." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anonymisierung und Wiederherstellung erfolgen lokal auf diesem Mac. Wiederherstellungszuordnungen bleiben im Arbeitsspeicher der laufenden App und werden nicht dauerhaft gespeichert. Die optionale lokale KI-Erkennung verwendet – sofern verfügbar – Apples On-Device-Modell und keinen Netzwerk-Fallback." } }
+      }
+    },
+    "Workflow and privacy information" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Informationen zu Ablauf und Datenschutz" } }
+      }
+    },
+    "When using this text with an AI, keep placeholders such as [PERSON_1] unchanged." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platzhalter wie [PERSON_1] bei der Bearbeitung mit einer KI unverändert lassen."
+          }
+        }
+      }
+    },
+    "Copy Anonymized Text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Anonymisierten Text kopieren" } }
+      }
+    },
+    "Mark as Sensitive" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Als sensibel markieren" } }
+      }
+    },
+    "No restore data available." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Keine Wiederherstellungsdaten vorhanden." } }
+      }
+    },
+    "Restore data available for this session." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wiederherstellungsdaten für diese Sitzung verfügbar." } }
+      }
+    },
+    "Select undetected sensitive content and add it with a right-click." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Nicht erkannte sensible Inhalte markieren und per Rechtsklick hinzufügen." } }
+      }
+    },
+    "If something was not detected automatically, select it in Internal Text and use the right-click menu to mark it as sensitive. Choose the appropriate category. Manual detections use the same anonymization and Restore workflow." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Wenn etwas nicht automatisch erkannt wurde, wähle es im „Internen Text“ aus und markiere es über das Rechtsklickmenü als sensibel. Wähle die passende Kategorie. Manuelle Markierungen verwenden denselben Anonymisierungs- und Wiederherstellungsablauf." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

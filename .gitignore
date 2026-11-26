@@ -1,0 +1,25 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.profraw
+*.xcresult
+*.dSYM
+
+# Build and distribution artifacts
+build/
+release/
+*.app
+*.zip
+
+# macOS
+.DS_Store

@@ -1,0 +1,7 @@
+# Exclude local repository and editor metadata from Git archive exports.
+.gitignore export-ignore
+.gitattributes export-ignore
+.vscode/ export-ignore
+.idea/ export-ignore
+.DS_Store export-ignore
+Thumbs.db export-ignore
